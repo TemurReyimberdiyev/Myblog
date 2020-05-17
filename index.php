@@ -27,7 +27,6 @@
 
 <body>
 	<?php include("header.php");?>
-	<?php include("banner.php");?>
 	<!--/main-->
 	<section class="main-content-w3layouts-agileits">
 		<div class="container">

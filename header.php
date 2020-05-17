@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-md-4 logo text-left">
 					<a class="navbar-brand" href="index.php">
-						<i class="fab fa-linode"></i> BLOG SITE</a>
+						<i class="fab fa-linode"></i> My Blog</a>
 				</div>
 				<div class="col-md-4 top-forms text-center mt-lg-3 mt-md-1 mt-0">
 					<span>Welcome Back!</span>
